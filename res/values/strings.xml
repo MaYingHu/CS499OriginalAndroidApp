@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">edmorrowcs360finalsubmissioninventoryapp</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnCreateUser">CREATE USER</string>
+    <string name="etxtNewUser">ENTER NEW USER DETAILS</string>
+    <string name="txtCreateUser">Register new account</string>
+    <string name="txtInventoryHeader">INVENTORY</string>
+    <string name="txtItemNumberHeader">№</string>
+    <string name="txtItemDescriptionHeader">Item Description</string>
+    <string name="etxtRestockPrompt">ADD OR RESTOCK ITEM</string>
+    <string name="txtEnableNotifications">Enable notifications</string>
+    <string name="txtDisableNotifications">Disable notifications</string>
+    <string name="btnUp">▲</string>
+    <string name="btnDown">▼</string>
+    <string name = "txtNotificationPrompt">Allow this app to send notifications to your device when stock of an inventory item reaches zero.</string>
+    <string name = "btnAddItem">+</string>
+    <string name = "btnDeleteItem">-</string>
+    <string name = "btnBack">◀</string>
+    <string name="incorrectUsernameError">Username not found!</string>
+    <string name="incorrectPasswordError">Incorrect password!</string>
+    <string name="userAddedNotification">User added!</string>
+    <string name="notificationHeader">OUT OF STOCK</string>
+    <string name="notificationMessage1">Quantity of </string>
+    <string name="notificationMessage2"> has reached zero.</string>
+</resources>
